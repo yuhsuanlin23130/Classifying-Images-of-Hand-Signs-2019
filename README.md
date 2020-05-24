@@ -3,7 +3,7 @@
  
 #### 執行環境
 Python3 + Jupyter Notebook      
-mxnet
+MXnet
 
 #### 目錄結構說明
 * training7: 3878 training images (included image augmentation)
