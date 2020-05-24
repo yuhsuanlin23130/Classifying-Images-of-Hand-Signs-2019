@@ -1,5 +1,5 @@
 #### 說明
-以DenseNet作為網路模型架構，訓練手勢圖像的數字的分類，包含圖片蒐集、Image Augmentation、資料集生成。test accuracy約為85%。
+以DenseNet作為網路模型架構，訓練手勢圖像的數字的分類與預測，前處理包含圖片蒐集、Image Augmentation、資料集生成。test accuracy約為85%。
  
 #### 執行環境
 Python3 + Jupyter Notebook      
